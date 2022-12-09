@@ -1,0 +1,1 @@
+An attempt by me to create a simple OS for learning experience
